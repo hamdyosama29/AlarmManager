@@ -193,7 +193,7 @@ con.close()
 ---
 
 ## **Conclusion**
-This script effectively manages alarm records in an SQLite database, providing options to add, view, update, and delete records. The user-friendly interface, input validation, and error handling make it a reliable tool for simple alarm management.
+#### This script effectively manages alarm records in an SQLite database, providing options to add, view, update, and delete records. The user-friendly interface, input validation, and error handling make it a reliable tool for simple alarm management.
 --
 # Alarm_Checker.py ⏰
 
